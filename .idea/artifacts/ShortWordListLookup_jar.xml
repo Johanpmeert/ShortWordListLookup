@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShortWordListLookup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShortWordListLookup_jar</output-path>
+    <root id="archive" name="ShortWordListLookup.jar">
+      <element id="module-output" name="ShortWordListLookup" />
+    </root>
+  </artifact>
+</component>
